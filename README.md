@@ -1,2 +1,2 @@
 # hello-world
-Learning Journal for iOS, xCode, and Swift
+Learning Journal for iOS, xCode, and Swift (and GitHub as well)
